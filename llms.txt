@@ -1,0 +1,44 @@
+# 양심보험연구소 기업보험 (corporate.yangsimlab.com)
+
+> 양심보험연구소는 22년 경력의 화재보험 전문가 노영규가 운영하는 보험 상담 사이트로, 기업을 위한 재산종합·건설공사·배상책임·전문인배상 보험의 설계와 계약 후 관리, 사고 보상 지원을 제공합니다. 상담과 증권 검토는 비용 없이 진행하며, 보험료는 업종·사업장 규모·공사와 설비 금액·매출과 배상 한도에 따라 개별 산정합니다. (2026년 9월 기준)
+
+## 전문가
+- [화재보험 전문가 노영규](https://corporate.yangsimlab.com/about/): 손해보험 22년, 설계사 등록번호 20050776010016, 지에이코리아(주) 소속, 저서 『매출이 오르는 가게는 보험부터 다르다』, 월간 창업&프랜차이즈·THE E-STATION 칼럼 연재
+
+## 주요 페이지
+- [기업보험 홈](https://corporate.yangsimlab.com/): 기업 맞춤 보험 설계, 상담 절차, 체크리스트, FAQ
+- [기업보험 칼럼](https://corporate.yangsimlab.com/columns/): 키워드별 전문가 칼럼 모음
+
+## 칼럼
+- [기업보험](https://corporate.yangsimlab.com/columns/corporate-insurance/): 기업보험, 재산·배상·인적·공사와 운송 네 갈래로 나눈 위험 지도와 담당자가 챙길 순서를 정리했습니다. 우리 회사 빈칸을 표 위에서 확인해 보세요.
+- [일반보험](https://corporate.yangsimlab.com/columns/general-insurance/): 일반보험, 자동차·장기보험과 구분되는 손해보험업계 용어로 기업성 보험이라고도 부릅니다. 종류와 1년 계약, 인수 심사 방식을 확인해 보세요.
+- [영업배상책임보험](https://corporate.yangsimlab.com/columns/business-liability/): 영업배상책임보험, 매장 낙상 같은 시설 사고와 작업 중 고객 물건 파손 같은 작업 사고를 사례로 나눠 봤습니다. 증권의 주소와 업무 내용을 점검해 보세요.
+- [단체상해보험](https://corporate.yangsimlab.com/columns/group-accident/): 단체상해보험, 산재보험을 대신하지 않고 그 바깥을 보완하는 임직원 상해 대비입니다. 사용자배상과의 차이와 도입 다섯 단계를 점검해 보세요.
+- [전문인배상보험](https://corporate.yangsimlab.com/columns/professional-liability/): 전문인배상보험, 세무사·건축사·엔지니어·IT 용역의 업무 과실로 고객에게 생긴 경제적 손해를 다룹니다. 법적 요건과 청구 기준을 확인해 보세요.
+- [행사보험](https://corporate.yangsimlab.com/columns/event-insurance/): 행사보험, 축제·전시회·공연의 관람객 사고 배상과 취소 위험, 주최사·대행사·장소 제공자 사이 책임을 단계별로 정리했습니다. 다음 행사 전에 점검해 보세요.
+- [건설공사보험](https://corporate.yangsimlab.com/columns/construction-works/): 건설공사보험, 공사 목적물 손해와 제3자 배상, 발주자·원도급·하도급의 가입 관계, 관급 공사 기준을 착공부터 인도까지 정리했습니다. 우리 현장 증권을 점검해 보세요.
+- [조립보험](https://corporate.yangsimlab.com/columns/erection-all-risk/): 조립보험, 기계·플랜트 설비의 반입·설치·시운전 단계별 위험과 건설공사보험과의 경계, 시운전 기간 연장까지 정리했습니다. 설비 계약서와 증권을 맞춰 보세요.
+- [중장비보험](https://corporate.yangsimlab.com/columns/heavy-equipment/): 중장비보험, 굴착기·크레인·지게차의 파손·도난·전복과 작업 중 제3자 배상, 소유자·임대인·임차인의 책임 관계를 현장 사례로 풀었습니다. 장비 목록을 점검해 보세요.
+- [건설기계종합보험](https://corporate.yangsimlab.com/columns/construction-machinery/): 건설기계종합보험, 의무보험 대상 건설기계와 등록 때 확인할 점, 도로 주행과 현장 작업 사고의 차이를 표로 정리했습니다. 보유 장비를 확인해 보세요.
+- [기계보험](https://corporate.yangsimlab.com/columns/machinery-breakdown/): 기계보험, 여러 업종 설비의 돌발 고장과 마모의 구분, 화재보험과의 경계, 노후 설비와 유지보수 기록을 점검표로 정리했습니다. 설비 목록을 확인해 보세요.
+- [전자기기보험](https://corporate.yangsimlab.com/columns/electronic-equipment/): 전자기기보험, 서버·통신장비·의료영상장비의 과전압·조작 실수·침수 사고와 데이터 복구 비용, 외부 데이터 매체를 정리했습니다. 장비 목록을 점검해 보세요.
+- [PL보험](https://corporate.yangsimlab.com/columns/pl-insurance/): PL보험, 해외 바이어와 국내 유통사가 요구하는 가입 증명서 준비 순서와 국내 PL·해외 PL의 차이를 정리했습니다. 계약서 보험 조항부터 확인해 보세요.
+- [의료기기배상책임보험](https://corporate.yangsimlab.com/columns/medical-device-liability/): 의료기기배상책임보험, 2022년 7월부터 의무화된 인체이식형 의료기기 제조·수입업자 책임보험과 판매업자가 볼 점을 문답으로 정리했습니다. 품목부터 확인해 보세요.
+- [선박보험](https://corporate.yangsimlab.com/columns/marine-hull/): 선박보험, 선체·기관 손해와 선주배상(P&I)의 구분, 어선·예인선·레저선박 등 선종별로 챙길 점을 표로 정리했습니다. 우리 배의 항행구역과 대조해 보세요.
+- [재산종합보험](https://corporate.yangsimlab.com/columns/property-package/): 재산종합보험, 본사·지점·공장·창고를 한 증권으로 관리할 때의 장점과 사업장 추가·폐쇄 처리, 가입금액 배분법을 정리했습니다. 점검표로 확인해 보세요.
+- [동산종합보험](https://corporate.yangsimlab.com/columns/inland-floater/): 동산종합보험, 전시회·촬영·측량 현장과 고객사, 렌털로 회사 밖에 나간 장비의 손해를 문답으로 정리했습니다. 반출 장비 목록부터 점검해 보세요.
+
+## 상담
+- 전화: 010-8284-6593
+- 카카오채널: https://pf.kakao.com/_xcxdyWxd
+- 유튜브: https://www.youtube.com/@yangsimbohum
+- 사무실: 서울 강남구 테헤란로25길 20 역삼현대벤처텔 1406호 / 경기 고양시 일산동구 호수로 646-24 노블소호비즈 22호
+
+## 안내
+- 보험 가입 가능 여부와 보장 내용은 보험사 인수 기준과 약관, 사업장 현황에 따라 달라질 수 있습니다.
+- 보험대리점 지에이코리아(주) 대리점 등록번호 2009098136
+
+## 사이트맵
+- https://corporate.yangsimlab.com/sitemap.xml
+- https://corporate.yangsimlab.com/rss.xml
+- https://corporate.yangsimlab.com/llms-full.txt: 모든 페이지 본문 전문

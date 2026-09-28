@@ -1,0 +1,70 @@
+[
+ {
+  "title": "기업보험",
+  "slug": "corporate-insurance"
+ },
+ {
+  "title": "일반보험",
+  "slug": "general-insurance"
+ },
+ {
+  "title": "영업배상책임보험",
+  "slug": "business-liability"
+ },
+ {
+  "title": "단체상해보험",
+  "slug": "group-accident"
+ },
+ {
+  "title": "전문인배상보험",
+  "slug": "professional-liability"
+ },
+ {
+  "title": "행사보험",
+  "slug": "event-insurance"
+ },
+ {
+  "title": "건설공사보험",
+  "slug": "construction-works"
+ },
+ {
+  "title": "조립보험",
+  "slug": "erection-all-risk"
+ },
+ {
+  "title": "중장비보험",
+  "slug": "heavy-equipment"
+ },
+ {
+  "title": "건설기계종합보험",
+  "slug": "construction-machinery"
+ },
+ {
+  "title": "기계보험",
+  "slug": "machinery-breakdown"
+ },
+ {
+  "title": "전자기기보험",
+  "slug": "electronic-equipment"
+ },
+ {
+  "title": "PL보험",
+  "slug": "pl-insurance"
+ },
+ {
+  "title": "의료기기배상책임보험",
+  "slug": "medical-device-liability"
+ },
+ {
+  "title": "선박보험",
+  "slug": "marine-hull"
+ },
+ {
+  "title": "재산종합보험",
+  "slug": "property-package"
+ },
+ {
+  "title": "동산종합보험",
+  "slug": "inland-floater"
+ }
+]
