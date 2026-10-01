@@ -1,13 +1,13 @@
 # 양심보험연구소 기업보험 (corporate.yangsimlab.com) — 전체 본문
 
-> 이 파일은 AI가 사이트 내용을 정확히 인용하도록 모든 페이지의 본문을 한곳에 모은 것입니다. 요약 안내는 https://corporate.yangsimlab.com/llms.txt 를 보세요. (2026-09-30 기준)
+> 이 파일은 AI가 사이트 내용을 정확히 인용하도록 모든 페이지의 본문을 한곳에 모은 것입니다. 요약 안내는 https://corporate.yangsimlab.com/llms.txt 를 보세요. (2026-10-01 기준)
 
 ---
 
 ## 기업보험은 양심보험연구소가 잘 압니다
 
 URL: https://corporate.yangsimlab.com/
-수정일: 2026-09-30
+수정일: 2026-10-01
 요약: 기업보험, 건설공사·영업배상·PL·재산종합·전문인배상까지 22년 화재보험 전문가 노영규가 회사의 업종과 사업 구조에 맞게 설계합니다. 전화·카카오채널로 상담하세요.
 
 전문성
@@ -174,7 +174,7 @@ THE e-STATION 화재보험 칼럼
 ## 기업보험 칼럼
 
 URL: https://corporate.yangsimlab.com/columns/
-수정일: 2026-09-30
+수정일: 2026-10-01
 요약: 위험관리전문가 노영규가 건설공사보험, 영업배상책임보험, PL보험, 재산종합보험, 전문인배상보험까지 기업 운영에 필요한 보험을 키워드별로 정리한 칼럼 모음입니다.
 
 위험관리전문가 노영규의 칼럼
@@ -224,7 +224,7 @@ URL: https://corporate.yangsimlab.com/columns/
 ## 기업보험
 
 URL: https://corporate.yangsimlab.com/columns/corporate-insurance/
-수정일: 2026-09-30
+수정일: 2026-10-01
 요약: 기업보험, 재산·배상·인적·공사와 운송 네 갈래로 나눈 위험 지도와 담당자가 챙길 순서를 정리했습니다. 우리 회사 빈칸을 표 위에서 확인해 보세요.
 
 전문가 칼럼 · 위험 지도
@@ -270,7 +270,7 @@ URL: https://corporate.yangsimlab.com/columns/corporate-insurance/
 ## 일반보험
 
 URL: https://corporate.yangsimlab.com/columns/general-insurance/
-수정일: 2026-09-30
+수정일: 2026-10-01
 요약: 일반보험, 자동차·장기보험과 구분되는 손해보험업계 용어로 기업성 보험이라고도 부릅니다. 종류와 1년 계약, 인수 심사 방식을 확인해 보세요.
 
 전문가 칼럼 · 용어 풀이
@@ -319,7 +319,7 @@ URL: https://corporate.yangsimlab.com/columns/general-insurance/
 ## 영업배상책임보험
 
 URL: https://corporate.yangsimlab.com/columns/business-liability/
-수정일: 2026-09-30
+수정일: 2026-10-01
 요약: 영업배상책임보험, 매장 낙상 같은 시설 사고와 작업 중 고객 물건 파손 같은 작업 사고를 사례로 나눠 봤습니다. 증권의 주소와 업무 내용을 점검해 보세요.
 
 전문가 칼럼 · 배상책임
@@ -370,7 +370,7 @@ URL: https://corporate.yangsimlab.com/columns/business-liability/
 ## 단체상해보험
 
 URL: https://corporate.yangsimlab.com/columns/group-accident/
-수정일: 2026-09-30
+수정일: 2026-10-01
 요약: 단체상해보험, 산재보험을 대신하지 않고 그 바깥을 보완하는 임직원 상해 대비입니다. 사용자배상과의 차이와 도입 다섯 단계를 점검해 보세요.
 
 전문가 칼럼 · 임직원
@@ -421,7 +421,7 @@ URL: https://corporate.yangsimlab.com/columns/group-accident/
 ## 전문인배상보험
 
 URL: https://corporate.yangsimlab.com/columns/professional-liability/
-수정일: 2026-09-30
+수정일: 2026-10-01
 요약: 전문인배상보험, 세무사·건축사·엔지니어·IT 용역의 업무 과실로 고객에게 생긴 경제적 손해를 다룹니다. 법적 요건과 청구 기준을 확인해 보세요.
 
 전문가 칼럼 · 전문직
@@ -467,7 +467,7 @@ IT 용역이나 자문 계약서에는 손해배상 한도를 계약 금액 이�
 ## 행사보험
 
 URL: https://corporate.yangsimlab.com/columns/event-insurance/
-수정일: 2026-09-30
+수정일: 2026-10-01
 요약: 행사보험, 축제·전시회·공연의 관람객 사고 배상과 취소 위험, 주최사·대행사·장소 제공자 사이 책임을 단계별로 정리했습니다. 다음 행사 전에 점검해 보세요.
 
 전문가 칼럼 · 행사·축제
@@ -513,7 +513,7 @@ URL: https://corporate.yangsimlab.com/columns/event-insurance/
 ## 건설공사보험
 
 URL: https://corporate.yangsimlab.com/columns/construction-works/
-수정일: 2026-09-30
+수정일: 2026-10-01
 요약: 건설공사보험, 공사 목적물 손해와 제3자 배상, 발주자·원도급·하도급의 가입 관계, 관급 공사 기준을 착공부터 인도까지 정리했습니다. 우리 현장 증권을 점검해 보세요.
 
 전문가 칼럼 · 공사 기간
@@ -561,7 +561,7 @@ URL: https://corporate.yangsimlab.com/columns/construction-works/
 ## 조립보험
 
 URL: https://corporate.yangsimlab.com/columns/erection-all-risk/
-수정일: 2026-09-30
+수정일: 2026-10-01
 요약: 조립보험, 기계·플랜트 설비의 반입·설치·시운전 단계별 위험과 건설공사보험과의 경계, 시운전 기간 연장까지 정리했습니다. 설비 계약서와 증권을 맞춰 보세요.
 
 전문가 칼럼 · 설비 설치
@@ -615,7 +615,7 @@ URL: https://corporate.yangsimlab.com/columns/erection-all-risk/
 ## 중장비보험
 
 URL: https://corporate.yangsimlab.com/columns/heavy-equipment/
-수정일: 2026-09-30
+수정일: 2026-10-01
 요약: 중장비보험, 굴착기·크레인·지게차의 파손·도난·전복과 작업 중 제3자 배상, 소유자·임대인·임차인의 책임 관계를 현장 사례로 풀었습니다. 장비 목록을 점검해 보세요.
 
 전문가 칼럼 · 장비 사고
@@ -663,7 +663,7 @@ URL: https://corporate.yangsimlab.com/columns/heavy-equipment/
 ## 건설기계종합보험
 
 URL: https://corporate.yangsimlab.com/columns/construction-machinery/
-수정일: 2026-09-30
+수정일: 2026-10-01
 요약: 건설기계종합보험, 의무보험 대상 건설기계와 등록 때 확인할 점, 도로 주행과 현장 작업 사고의 차이를 표로 정리했습니다. 보유 장비를 확인해 보세요.
 
 전문가 칼럼 · 등록·주행
@@ -712,7 +712,7 @@ URL: https://corporate.yangsimlab.com/columns/construction-machinery/
 ## 기계보험
 
 URL: https://corporate.yangsimlab.com/columns/machinery-breakdown/
-수정일: 2026-09-30
+수정일: 2026-10-01
 요약: 기계보험, 여러 업종 설비의 돌발 고장과 마모의 구분, 화재보험과의 경계, 노후 설비와 유지보수 기록을 점검표로 정리했습니다. 설비 목록을 확인해 보세요.
 
 전문가 칼럼 · 설비 운영
@@ -761,7 +761,7 @@ URL: https://corporate.yangsimlab.com/columns/machinery-breakdown/
 ## 전자기기보험
 
 URL: https://corporate.yangsimlab.com/columns/electronic-equipment/
-수정일: 2026-09-30
+수정일: 2026-10-01
 요약: 전자기기보험, 서버·통신장비·의료영상장비의 과전압·조작 실수·침수 사고와 데이터 복구 비용, 외부 데이터 매체를 정리했습니다. 장비 목록을 점검해 보세요.
 
 전문가 칼럼 · 전자 장비
@@ -813,7 +813,7 @@ URL: https://corporate.yangsimlab.com/columns/electronic-equipment/
 ## PL보험
 
 URL: https://corporate.yangsimlab.com/columns/pl-insurance/
-수정일: 2026-09-30
+수정일: 2026-10-01
 요약: PL보험, 해외 바이어와 국내 유통사가 요구하는 가입 증명서 준비 순서와 국내 PL·해외 PL의 차이를 정리했습니다. 계약서 보험 조항부터 확인해 보세요.
 
 전문가 칼럼 · 수출·증명서
@@ -861,7 +861,7 @@ PL보험 증명서는 한 장이지만 그 뒤에는 판매 지역, 기간 기�
 ## 의료기기배상책임보험
 
 URL: https://corporate.yangsimlab.com/columns/medical-device-liability/
-수정일: 2026-09-30
+수정일: 2026-10-01
 요약: 의료기기배상책임보험, 2022년 7월부터 의무화된 인체이식형 의료기기 제조·수입업자 책임보험과 판매업자가 볼 점을 문답으로 정리했습니다. 품목부터 확인해 보세요.
 
 전문가 칼럼 · 의료기기
@@ -909,7 +909,7 @@ URL: https://corporate.yangsimlab.com/columns/medical-device-liability/
 ## 선박보험
 
 URL: https://corporate.yangsimlab.com/columns/marine-hull/
-수정일: 2026-09-30
+수정일: 2026-10-01
 요약: 선박보험, 선체·기관 손해와 선주배상(P&amp;I)의 구분, 어선·예인선·레저선박 등 선종별로 챙길 점을 표로 정리했습니다. 우리 배의 항행구역과 대조해 보세요.
 
 전문가 칼럼 · 해운·선박
@@ -955,7 +955,7 @@ URL: https://corporate.yangsimlab.com/columns/marine-hull/
 ## 재산종합보험
 
 URL: https://corporate.yangsimlab.com/columns/property-package/
-수정일: 2026-09-30
+수정일: 2026-10-01
 요약: 재산종합보험, 본사·지점·공장·창고를 한 증권으로 관리할 때의 장점과 사업장 추가·폐쇄 처리, 가입금액 배분법을 정리했습니다. 점검표로 확인해 보세요.
 
 전문가 칼럼 · 다사업장 관리
@@ -1011,7 +1011,7 @@ URL: https://corporate.yangsimlab.com/columns/property-package/
 ## 동산종합보험
 
 URL: https://corporate.yangsimlab.com/columns/inland-floater/
-수정일: 2026-09-30
+수정일: 2026-10-01
 요약: 동산종합보험, 전시회·촬영·측량 현장과 고객사, 렌털로 회사 밖에 나간 장비의 손해를 문답으로 정리했습니다. 반출 장비 목록부터 점검해 보세요.
 
 전문가 칼럼 · 외부 반출 장비
@@ -1061,7 +1061,7 @@ URL: https://corporate.yangsimlab.com/columns/inland-floater/
 ## 화재보험 전문가 노영규
 
 URL: https://corporate.yangsimlab.com/about/
-수정일: 2026-09-30
+수정일: 2026-10-01
 요약: 양심보험연구소 노영규 대표는 22년 경력의 손해보험 설계사로 기업보험과 배상책임보험 등 기업 위험관리를 전문으로 합니다. 등록번호와 저서, 칼럼 이력을 확인하세요.
 
 양심보험연구소 대표
