@@ -1,13 +1,13 @@
 # 양심보험연구소 기업보험 (corporate.yangsimlab.com) — 전체 본문
 
-> 이 파일은 AI가 사이트 내용을 정확히 인용하도록 모든 페이지의 본문을 한곳에 모은 것입니다. 요약 안내는 https://corporate.yangsimlab.com/llms.txt 를 보세요. (2026-10-18 기준)
+> 이 파일은 AI가 사이트 내용을 정확히 인용하도록 모든 페이지의 본문을 한곳에 모은 것입니다. 요약 안내는 https://corporate.yangsimlab.com/llms.txt 를 보세요. (2026-10-19 기준)
 
 ---
 
 ## 기업보험은 양심보험연구소가 잘 압니다
 
 URL: https://corporate.yangsimlab.com/
-수정일: 2026-10-18
+수정일: 2026-10-19
 요약: 기업보험, 건설공사·영업배상·PL·재산종합·전문인배상까지 22년 화재보험 전문가 노영규가 회사의 업종과 사업 구조에 맞게 설계합니다. 전화·카카오채널로 상담하세요.
 
 전문성
@@ -36,7 +36,7 @@ FAQ
 기업보험 관련 공식 통계
 2024년 전국에서 난 화재는 37,614건이었고, 사망자는 308명, 부상자는 2,094명이었습니다. 출처: 소방청 국가화재정보시스템 화재통계(2024년, 전국)
 2024년 화재로 인한 재산피해는 약 7,839억 원(783,898,521천 원)이었습니다. 출처: 소방청 국가화재정보시스템 화재통계(2024년, 전국)
-작성 노영규 · 양심보험연구소 대표 · 손해보험 22년 · 2026년 10월 18일 업데이트
+작성 노영규 · 양심보험연구소 대표 · 손해보험 22년 · 2026년 10월 19일 업데이트
 전문가와 고객이 증명하는 신뢰
 MGF 베스트스토리텔러 BNI 코리아 토크콘서트 발표
 단행본 출간 매출이 오르는 가게는 보험부터 다르다
@@ -209,7 +209,7 @@ PL보험
 ## 기업보험 칼럼
 
 URL: https://corporate.yangsimlab.com/columns/
-수정일: 2026-10-18
+수정일: 2026-10-19
 요약: 위험관리전문가 노영규가 건설공사보험, 영업배상책임보험, PL보험, 재산종합보험, 전문인배상보험까지 기업 운영에 필요한 보험을 키워드별로 정리한 칼럼 모음입니다.
 
 위험관리전문가 노영규의 칼럼
@@ -265,7 +265,7 @@ URL: https://corporate.yangsimlab.com/columns/
 ## 기업보험
 
 URL: https://corporate.yangsimlab.com/columns/corporate-insurance/
-수정일: 2026-10-18
+수정일: 2026-10-19
 요약: 기업보험, 재산·배상·인적·공사와 운송 네 갈래로 나눈 위험 지도와 담당자가 챙길 순서를 정리했습니다. 우리 회사 빈칸을 표 위에서 확인해 보세요.
 
 전문가 칼럼 · 위험 지도
@@ -290,6 +290,8 @@ URL: https://corporate.yangsimlab.com/columns/corporate-insurance/
 모든 칸을 같은 두께로 채울 필요는 없다
 사무실만 쓰는 서비스 기업이라면 재산 칸은 얇아도 되고, 현장이 많은 건설사라면 공사와 배상 칸이 두꺼워야 합니다. 수출 비중이 큰 제조사라면 해외 배상과 운송이 무게를 가집니다. 업종과 규모에 따라 두께가 달라지는 것이 자연스럽고, 중요한 것은 어느 칸이 왜 비어 있는지 설명할 수 있는 상태입니다.
 기업보험 자주 묻는 질문
+기업보험은 어떤 종류가 있나요?
+기업보험은 위험 갈래에 따라 크게 네 종류로 나눕니다. 재산(화재보험·재산종합보험·기계보험·전자기기보험), 제3자 배상(영업배상책임보험·생산물배상책임보험·전문인배상책임보험), 임직원(산재보험 위에 얹는 단체상해보험), 공사·운송(건설공사보험·조립보험·적하보험)입니다. 우리 회사는 어느 칸이 비어 있는지부터 표에 올려 보는 것이 출발점입니다.
 기업보험이라는 상품이 따로 있나요?
 아니요, 기업이 드는 여러 보험을 통틀어 부르는 말입니다. 특정 상품명이라기보다 화재, 배상책임, 상해, 공사·운송 관련 보험을 함께 가리킵니다.
 보험 업무를 처음 맡으면 무엇부터 하나요?
@@ -311,7 +313,7 @@ URL: https://corporate.yangsimlab.com/columns/corporate-insurance/
 ## 일반보험
 
 URL: https://corporate.yangsimlab.com/columns/general-insurance/
-수정일: 2026-10-18
+수정일: 2026-10-19
 요약: 일반보험, 자동차·장기보험과 구분되는 손해보험업계 용어로 기업성 보험이라고도 부릅니다. 종류와 1년 계약, 인수 심사 방식을 확인해 보세요.
 
 전문가 칼럼 · 용어 풀이
@@ -360,7 +362,7 @@ URL: https://corporate.yangsimlab.com/columns/general-insurance/
 ## 영업배상책임보험
 
 URL: https://corporate.yangsimlab.com/columns/business-liability/
-수정일: 2026-10-18
+수정일: 2026-10-19
 요약: 영업배상책임보험, 매장 낙상 같은 시설 사고와 작업 중 고객 물건 파손 같은 작업 사고를 사례로 나눠 봤습니다. 증권의 주소와 업무 내용을 점검해 보세요.
 
 전문가 칼럼 · 배상책임
@@ -390,8 +392,8 @@ URL: https://corporate.yangsimlab.com/columns/business-liability/
 증권에서 볼 세 줄
 먼저 사업장 소재지가 지금 쓰는 곳과 같은지 본다. 이전하거나 매장을 늘렸는데 주소가 그대로면 새 공간은 밖에 놓인다. 다음은 업무 내용이다. 도소매로 적혀 있는데 설치나 시공도 하고 있다면 작업 쪽 위험이 빠졌을 수 있다. 마지막으로 1사고당 한도와 자기부담금을 확인한다. 사람이 다치는 사고는 치료가 길어지면 청구 금액이 예상보다 커지기 때문이다. 작은 물건 파손이 잦은 업종이라면 자기부담금이 너무 높아 사실상 대부분을 직접 물고 있지는 않은지도 함께 따져 보자. 한 해 동안 들어온 사고 접수 내역을 뽑아 보면 어느 쪽이 맞는지 금방 드러난다.
 영업배상책임보험 자주 묻는 질문
-영업배상책임보험은 어떤 사고를 다루나요?
-사업장 시설을 운영하거나 업무를 하다 제3자의 신체나 재산에 손해를 입혀 생긴 배상 책임을 다룹니다.
+영업배상책임보험은 어떤 사고를 보상하나요?
+사업장 시설이나 업무 때문에 제3자의 몸이나 재산에 손해를 입혀 생긴 법률상 배상 책임이 보상 대상이 될 수 있습니다. 크게 매장 바닥 낙상·간판 낙하 같은 시설 사고와, 고객 현장에서 일하다 남의 물건을 파손한 작업 사고로 나뉩니다. 직원 본인의 부상, 맡아 둔 물건의 손해, 시술·조제 같은 전문 행위 손해는 보통 따로 확인해야 합니다.
 시설 사고와 작업 사고는 어떻게 다른가요?
 매장 바닥 낙상처럼 사업장 공간에서 생긴 사고와, 고객 현장에서 일하다 남의 물건을 파손한 사고로 나뉩니다. 증권에 어느 쪽이 들어 있는지 확인해 볼 필요가 있습니다.
 우리 직원이 다친 사고도 여기서 보나요?
@@ -411,7 +413,7 @@ URL: https://corporate.yangsimlab.com/columns/business-liability/
 ## 단체상해보험
 
 URL: https://corporate.yangsimlab.com/columns/group-accident/
-수정일: 2026-10-18
+수정일: 2026-10-19
 요약: 단체상해보험, 산재보험을 대신하지 않고 그 바깥을 보완하는 임직원 상해 대비입니다. 사용자배상과의 차이와 도입 다섯 단계를 점검해 보세요.
 
 전문가 칼럼 · 임직원
@@ -462,7 +464,7 @@ URL: https://corporate.yangsimlab.com/columns/group-accident/
 ## 전문인배상보험
 
 URL: https://corporate.yangsimlab.com/columns/professional-liability/
-수정일: 2026-10-18
+수정일: 2026-10-19
 요약: 전문인배상보험, 세무사·건축사·엔지니어·IT 용역의 업무 과실로 고객에게 생긴 경제적 손해를 다룹니다. 법적 요건과 청구 기준을 확인해 보세요.
 
 전문가 칼럼 · 전문직
@@ -508,7 +510,7 @@ IT 용역이나 자문 계약서에는 손해배상 한도를 계약 금액 이�
 ## 행사보험
 
 URL: https://corporate.yangsimlab.com/columns/event-insurance/
-수정일: 2026-10-18
+수정일: 2026-10-19
 요약: 행사보험, 축제·전시회·공연의 관람객 사고 배상과 취소 위험, 주최사·대행사·장소 제공자 사이 책임을 단계별로 정리했습니다. 다음 행사 전에 점검해 보세요.
 
 전문가 칼럼 · 행사·축제
@@ -554,7 +556,7 @@ URL: https://corporate.yangsimlab.com/columns/event-insurance/
 ## 건설공사보험
 
 URL: https://corporate.yangsimlab.com/columns/construction-works/
-수정일: 2026-10-18
+수정일: 2026-10-19
 요약: 건설공사보험, 공사 목적물 손해와 제3자 배상, 발주자·원도급·하도급의 가입 관계, 관급 공사 기준을 착공부터 인도까지 정리했습니다. 우리 현장 증권을 점검해 보세요.
 
 전문가 칼럼 · 공사 기간
@@ -602,7 +604,7 @@ URL: https://corporate.yangsimlab.com/columns/construction-works/
 ## 조립보험
 
 URL: https://corporate.yangsimlab.com/columns/erection-all-risk/
-수정일: 2026-10-18
+수정일: 2026-10-19
 요약: 조립보험, 기계·플랜트 설비의 반입·설치·시운전 단계별 위험과 건설공사보험과의 경계, 시운전 기간 연장까지 정리했습니다. 설비 계약서와 증권을 맞춰 보세요.
 
 전문가 칼럼 · 설비 설치
@@ -656,7 +658,7 @@ URL: https://corporate.yangsimlab.com/columns/erection-all-risk/
 ## 중장비보험
 
 URL: https://corporate.yangsimlab.com/columns/heavy-equipment/
-수정일: 2026-10-18
+수정일: 2026-10-19
 요약: 중장비보험, 굴착기·크레인·지게차의 파손·도난·전복과 작업 중 제3자 배상, 소유자·임대인·임차인의 책임 관계를 현장 사례로 풀었습니다. 장비 목록을 점검해 보세요.
 
 전문가 칼럼 · 장비 사고
@@ -704,7 +706,7 @@ URL: https://corporate.yangsimlab.com/columns/heavy-equipment/
 ## 건설기계종합보험
 
 URL: https://corporate.yangsimlab.com/columns/construction-machinery/
-수정일: 2026-10-18
+수정일: 2026-10-19
 요약: 건설기계종합보험, 의무보험 대상 건설기계와 등록 때 확인할 점, 도로 주행과 현장 작업 사고의 차이를 표로 정리했습니다. 보유 장비를 확인해 보세요.
 
 전문가 칼럼 · 등록·주행
@@ -753,7 +755,7 @@ URL: https://corporate.yangsimlab.com/columns/construction-machinery/
 ## 기계보험
 
 URL: https://corporate.yangsimlab.com/columns/machinery-breakdown/
-수정일: 2026-10-18
+수정일: 2026-10-19
 요약: 기계보험, 여러 업종 설비의 돌발 고장과 마모의 구분, 화재보험과의 경계, 노후 설비와 유지보수 기록을 점검표로 정리했습니다. 설비 목록을 확인해 보세요.
 
 전문가 칼럼 · 설비 운영
@@ -802,7 +804,7 @@ URL: https://corporate.yangsimlab.com/columns/machinery-breakdown/
 ## 전자기기보험
 
 URL: https://corporate.yangsimlab.com/columns/electronic-equipment/
-수정일: 2026-10-18
+수정일: 2026-10-19
 요약: 전자기기보험, 서버·통신장비·의료영상장비의 과전압·조작 실수·침수 사고와 데이터 복구 비용, 외부 데이터 매체를 정리했습니다. 장비 목록을 점검해 보세요.
 
 전문가 칼럼 · 전자 장비
@@ -854,7 +856,7 @@ URL: https://corporate.yangsimlab.com/columns/electronic-equipment/
 ## PL보험
 
 URL: https://corporate.yangsimlab.com/columns/pl-insurance/
-수정일: 2026-10-18
+수정일: 2026-10-19
 요약: PL보험, 해외 바이어와 국내 유통사가 요구하는 가입 증명서 준비 순서와 국내 PL·해외 PL의 차이를 정리했습니다. 계약서 보험 조항부터 확인해 보세요.
 
 전문가 칼럼 · 수출·증명서
@@ -902,7 +904,7 @@ PL보험 증명서는 한 장이지만 그 뒤에는 판매 지역, 기간 기�
 ## 의료기기배상책임보험
 
 URL: https://corporate.yangsimlab.com/columns/medical-device-liability/
-수정일: 2026-10-18
+수정일: 2026-10-19
 요약: 의료기기배상책임보험, 2022년 7월부터 의무화된 인체이식형 의료기기 제조·수입업자 책임보험과 판매업자가 볼 점을 문답으로 정리했습니다. 품목부터 확인해 보세요.
 
 전문가 칼럼 · 의료기기
@@ -950,7 +952,7 @@ URL: https://corporate.yangsimlab.com/columns/medical-device-liability/
 ## 선박보험
 
 URL: https://corporate.yangsimlab.com/columns/marine-hull/
-수정일: 2026-10-18
+수정일: 2026-10-19
 요약: 선박보험, 선체·기관 손해와 선주배상(P&amp;I)의 구분, 어선·예인선·레저선박 등 선종별로 챙길 점을 표로 정리했습니다. 우리 배의 항행구역과 대조해 보세요.
 
 전문가 칼럼 · 해운·선박
@@ -996,7 +998,7 @@ URL: https://corporate.yangsimlab.com/columns/marine-hull/
 ## 재산종합보험
 
 URL: https://corporate.yangsimlab.com/columns/property-package/
-수정일: 2026-10-18
+수정일: 2026-10-19
 요약: 재산종합보험, 본사·지점·공장·창고를 한 증권으로 관리할 때의 장점과 사업장 추가·폐쇄 처리, 가입금액 배분법을 정리했습니다. 점검표로 확인해 보세요.
 
 전문가 칼럼 · 다사업장 관리
@@ -1052,7 +1054,7 @@ URL: https://corporate.yangsimlab.com/columns/property-package/
 ## 동산종합보험
 
 URL: https://corporate.yangsimlab.com/columns/inland-floater/
-수정일: 2026-10-18
+수정일: 2026-10-19
 요약: 동산종합보험, 전시회·촬영·측량 현장과 고객사, 렌털로 회사 밖에 나간 장비의 손해를 문답으로 정리했습니다. 반출 장비 목록부터 점검해 보세요.
 
 전문가 칼럼 · 외부 반출 장비
@@ -1102,7 +1104,7 @@ URL: https://corporate.yangsimlab.com/columns/inland-floater/
 ## 영업배상책임보험과 생산물배상책임보험 차이
 
 URL: https://corporate.yangsimlab.com/columns/business-vs-product-liability/
-수정일: 2026-10-18
+수정일: 2026-10-19
 요약: 영업배상책임보험과 생산물배상책임보험 차이, 사업장·업무 중 사고와 인도한 제품 사고를 인도 시점으로 가릅니다. 우리 회사에 둘 다 필요한지 확인해 보세요.
 
 전문가 칼럼 · 비교·배상책임
@@ -1148,7 +1150,7 @@ URL: https://corporate.yangsimlab.com/columns/business-vs-product-liability/
 ## 단체상해보험과 산재보험 차이
 
 URL: https://corporate.yangsimlab.com/columns/group-accident-vs-workers-comp/
-수정일: 2026-10-18
+수정일: 2026-10-19
 요약: 단체상해보험과 산재보험 차이, 법정 의무 사회보험과 회사가 고르는 민간 보험의 보상 구조와 중복 여부를 비교했습니다. 우리 회사 빈칸을 점검해 보세요.
 
 전문가 칼럼 · 비교·임직원
@@ -1194,7 +1196,7 @@ URL: https://corporate.yangsimlab.com/columns/group-accident-vs-workers-comp/
 ## 건설공사보험과 조립보험 차이
 
 URL: https://corporate.yangsimlab.com/columns/construction-vs-erection/
-수정일: 2026-10-18
+수정일: 2026-10-19
 요약: 건설공사보험과 조립보험 차이, 토목·건축 공사와 기계·설비 설치 공사를 보장 대상·끝나는 시점·제외 손해로 비교했습니다. 우리 현장에 맞는 증권을 확인해 보세요.
 
 전문가 칼럼 · 비교·공사
@@ -1240,7 +1242,7 @@ URL: https://corporate.yangsimlab.com/columns/construction-vs-erection/
 ## 기업보험 전문가 노영규
 
 URL: https://corporate.yangsimlab.com/about/
-수정일: 2026-10-18
+수정일: 2026-10-19
 요약: 기업보험 전문가 노영규는 22년 손해보험 경력으로 건설공사·영업배상·PL·단체상해·재산종합보험 등 기업이 마주하는 위험을 함께 설계합니다. 상담 방식과 이력을 확인하세요.
 
 양심보험연구소 대표
