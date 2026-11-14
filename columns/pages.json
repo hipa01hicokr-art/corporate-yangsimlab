@@ -98,5 +98,17 @@
  {
   "title": "임원배상책임보험",
   "slug": "directors-officers-liability"
+ },
+ {
+  "title": "개인정보보호배상책임보험",
+  "slug": "privacy-liability"
+ },
+ {
+  "title": "사이버보험",
+  "slug": "cyber-insurance"
+ },
+ {
+  "title": "사용자배상책임보험",
+  "slug": "employers-liability"
  }
 ]
