@@ -38,6 +38,7 @@
 - [개인정보보호배상책임보험](https://corporate.yangsimlab.com/columns/privacy-liability/): 개인정보보호배상책임보험, 매출액 10억원·정보주체 1만명 가입 대상 기준과 유출 때 회사의 배상 구조, 통지 의무와 증권 점검표를 정리했습니다.
 - [사이버보험](https://corporate.yangsimlab.com/columns/cyber-insurance/): 사이버보험, 해킹·랜섬웨어로 회사가 입는 조사·복구 비용과 영업 중단 손실, 외부 배상을 나눠 보고 대기 조건과 외주 시스템 범위를 정리했습니다.
 - [사용자배상책임보험](https://corporate.yangsimlab.com/columns/employers-liability/): 사용자배상책임보험, 산재보험 급여를 넘어 회사에 남는 위자료·소득 차액 배상과 산재보험법 제80조의 관계, 단체상해보험과의 차이를 정리했습니다.
+- [주차장배상책임보험](https://corporate.yangsimlab.com/columns/parking-liability/): 주차장배상책임보험, 기계식주차장 20대 이상 의무 기준과 사망 1억5천만원·물적 1억원 한도, 가입 기한과 14일 내 제출, 발렛 담보 확인법을 정리했습니다.
 
 ## 상담
 - 전화: 010-8284-6593
