@@ -343,7 +343,7 @@ URL: https://corporate.yangsimlab.com/columns/corporate-insurance/
 ## 일반보험
 
 URL: https://corporate.yangsimlab.com/columns/general-insurance/
-수정일: 2026-10-25
+수정일: 2026-11-23
 요약: 일반보험, 자동차·장기보험과 구분되는 손해보험업계 용어로 기업성 보험이라고도 부릅니다. 종류와 1년 계약, 인수 심사 방식을 확인해 보세요.
 
 전문가 칼럼 · 용어 풀이
@@ -640,7 +640,7 @@ URL: https://corporate.yangsimlab.com/columns/construction-works/
 ## 조립보험
 
 URL: https://corporate.yangsimlab.com/columns/erection-all-risk/
-수정일: 2026-10-25
+수정일: 2026-11-23
 요약: 조립보험, 기계·플랜트 설비의 반입·설치·시운전 단계별 위험과 건설공사보험과의 경계, 시운전 기간 연장까지 정리했습니다. 설비 계약서와 증권을 맞춰 보세요.
 
 전문가 칼럼 · 설비 설치
@@ -694,7 +694,7 @@ URL: https://corporate.yangsimlab.com/columns/erection-all-risk/
 ## 중장비보험
 
 URL: https://corporate.yangsimlab.com/columns/heavy-equipment/
-수정일: 2026-10-25
+수정일: 2026-11-23
 요약: 중장비보험, 굴착기·크레인·지게차의 파손·도난·전복과 작업 중 제3자 배상, 소유자·임대인·임차인의 책임 관계를 현장 사례로 풀었습니다. 장비 목록을 점검해 보세요.
 
 전문가 칼럼 · 장비 사고
@@ -793,7 +793,7 @@ URL: https://corporate.yangsimlab.com/columns/construction-machinery/
 ## 기계보험
 
 URL: https://corporate.yangsimlab.com/columns/machinery-breakdown/
-수정일: 2026-10-25
+수정일: 2026-11-23
 요약: 기계보험, 여러 업종 설비의 돌발 고장과 마모의 구분, 화재보험과의 경계, 노후 설비와 유지보수 기록을 점검표로 정리했습니다. 설비 목록을 확인해 보세요.
 
 전문가 칼럼 · 설비 운영
@@ -842,7 +842,7 @@ URL: https://corporate.yangsimlab.com/columns/machinery-breakdown/
 ## 전자기기보험
 
 URL: https://corporate.yangsimlab.com/columns/electronic-equipment/
-수정일: 2026-10-25
+수정일: 2026-11-23
 요약: 전자기기보험, 서버·통신장비·의료영상장비의 과전압·조작 실수·침수 사고와 데이터 복구 비용, 외부 데이터 매체를 정리했습니다. 장비 목록을 점검해 보세요.
 
 전문가 칼럼 · 전자 장비
@@ -1094,7 +1094,7 @@ URL: https://corporate.yangsimlab.com/columns/property-package/
 ## 동산종합보험
 
 URL: https://corporate.yangsimlab.com/columns/inland-floater/
-수정일: 2026-10-25
+수정일: 2026-11-23
 요약: 동산종합보험, 전시회·촬영·측량 현장과 고객사, 렌털로 회사 밖에 나간 장비의 손해를 문답으로 정리했습니다. 반출 장비 목록부터 점검해 보세요.
 
 전문가 칼럼 · 외부 반출 장비
@@ -1284,7 +1284,7 @@ URL: https://corporate.yangsimlab.com/columns/construction-vs-erection/
 ## 동절기 공사장 화재와 건설공사보험
 
 URL: https://corporate.yangsimlab.com/columns/winter-construction-fire/
-수정일: 2026-10-29
+수정일: 2026-11-23
 요약: 동절기 공사장 화재와 건설공사보험, 보온 양생 열풍기·마감 용접·단열재 불씨와 공사 중 화재 손해, 공기 연장 시 점검할 항목을 정리했습니다. 확인해 보세요.
 
 전문가 칼럼 · 계절·공사
